@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1523639673 source:c:\users\korinver\documents\guia4\main.cpp
+	<iostream>
+	"Aplicacion.h"
+
+1523648992 c:\users\korinver\documents\guia4\aplicacion.h
+	<string.h>
+	"Usuario.h"
+	"Registro.h"
+
+1523639706 c:\users\korinver\documents\guia4\usuario.h
+	<string.h>
+
+1523639640 c:\users\korinver\documents\guia4\registro.h
+
